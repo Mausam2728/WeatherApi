@@ -1,1 +1,1 @@
-# weather-api-project
+# WeatherApi
